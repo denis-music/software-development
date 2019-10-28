@@ -1,0 +1,13 @@
+﻿using System;
+
+namespace DLWMS.Core
+{
+
+    
+    public class Student 
+    {
+        public int Id { get; set; }
+        public string Ime { get; set; }
+        public string Prezime { get; set; }
+    }
+}

@@ -1,0 +1,15 @@
+C:\Users\Denis\Source\Repos\DLWMS\DLWMS.Core\bin\Debug\netcoreapp2.2\DLWMS.Core.deps.json
+C:\Users\Denis\Source\Repos\DLWMS\DLWMS.Core\bin\Debug\netcoreapp2.2\DLWMS.Core.dll
+C:\Users\Denis\Source\Repos\DLWMS\DLWMS.Core\bin\Debug\netcoreapp2.2\DLWMS.Core.pdb
+C:\Users\Denis\Source\Repos\DLWMS\DLWMS.Core\obj\Debug\netcoreapp2.2\DLWMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Source\Repos\DLWMS\DLWMS.Core\obj\Debug\netcoreapp2.2\DLWMS.Core.AssemblyInfoInputs.cache
+C:\Users\Denis\Source\Repos\DLWMS\DLWMS.Core\obj\Debug\netcoreapp2.2\DLWMS.Core.AssemblyInfo.cs
+C:\Users\Denis\Source\Repos\DLWMS\DLWMS.Core\obj\Debug\netcoreapp2.2\DLWMS.Core.dll
+C:\Users\Denis\Source\Repos\DLWMS\DLWMS.Core\obj\Debug\netcoreapp2.2\DLWMS.Core.pdb
+H:\Users\Denis\Source\Repos\DLWMS\DLWMS.Core\bin\Debug\netcoreapp2.2\DLWMS.Core.deps.json
+H:\Users\Denis\Source\Repos\DLWMS\DLWMS.Core\bin\Debug\netcoreapp2.2\DLWMS.Core.dll
+H:\Users\Denis\Source\Repos\DLWMS\DLWMS.Core\bin\Debug\netcoreapp2.2\DLWMS.Core.pdb
+H:\Users\Denis\Source\Repos\DLWMS\DLWMS.Core\obj\Debug\netcoreapp2.2\DLWMS.Core.AssemblyInfoInputs.cache
+H:\Users\Denis\Source\Repos\DLWMS\DLWMS.Core\obj\Debug\netcoreapp2.2\DLWMS.Core.AssemblyInfo.cs
+H:\Users\Denis\Source\Repos\DLWMS\DLWMS.Core\obj\Debug\netcoreapp2.2\DLWMS.Core.dll
+H:\Users\Denis\Source\Repos\DLWMS\DLWMS.Core\obj\Debug\netcoreapp2.2\DLWMS.Core.pdb
